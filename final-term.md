@@ -1,4 +1,4 @@
-## Databases for Large Datasets (Assessment 1 - 23th March 2023, 11:59 PM )
+## Databases for Large Datasets (Assessment 1 - 23rd March 2023, 11:59 PM )
 
 #### Brief:
 3 Database Models, 1 Relational (MySQL/PosgreSQL) 2 non-relational (MongoDB/Reddis/Neo4j). Each model should have a real world application case study. he case studies should be systems development projects following a real-world example where large amounts of data would be
