@@ -99,3 +99,51 @@ Machine learning algorithm of choice to analyse the dataset. Report describing t
 	+ No Typos
 	+ All figures/images/tables/equations captioned
 	+ Screenshots & code samples
+
+---
+## Individual Project (15,000 - 20,000 words)
+### Brief
+- Conduct independent research of a given problem - including a discussion of the wider context; 
+- Choose an appropriate methodology for developing a solution to a given problem; 
+- Analyse the problem; 
+- Develop a solution; 
+- Critically evaluate the product and project as a whole; 
+- Presenting the results in a written report;
+- An oral presentation;
+
+### Grading
+- Research/Investigation (20%)
+	- Detailed knowledge of topic selected
+	- Systematic investigation of selected topics
+	- Appropriate terminology
+	- APA 7 referencing and consistent referencing style
+- Critical Analysis (10%)
+	- Demonstrate Application 10of theory through critical analysis/system design and appropriate methodologies
+- Design and Development Process (10%)
+	- Write about Software/Research Development process
+	- Detailed Test plan and test plan execution
+- Methodology (10%)
+	- Detailed clariity of methodology
+	- Justification for selection of methodology
+- Product (10%)
+	- Fully functional with all functionality present
+- Evaluation (10%)
+	- Evaluation of each component of the product or the entire product.
+	- Reliability of data
+	- Analysis of strengths and weaknesses
+	- Supporting evidences for conclusions and recommendations
+- Academic Standard of Report (10%)
+	- Well structured report
+	- Correct grammar, Reference style APA 7 
+	- Focused report with clear and through explanation
+	- Imaginative approach to the topic
+- Presentation (10%)
+	- Imaginative presentation with clear informative visual aids
+	- Complete overview of the project
+	- Defence of the project
+- Project Management (10%)
+	- Producing documents of time
+	- Contact with supervisor
+	- Time Management
+	- Project Plan
+	- Recognising and carrying out activities
