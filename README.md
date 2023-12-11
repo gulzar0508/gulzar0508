@@ -1,10 +1,24 @@
-## About me
+👋 Hello, I'm Gulger Mallik, a passionate Software Engineer known as @mrmallik. I thrive in the realms of Java, Python, PHP, and ReactJS, crafting digital experiences for Websites, Web Apps, and Progressive Web Apps (PWAs).
 
-- 👀 Hi there, I'm Gulzar 👋
-- 😄 Pronouns: He/Him
-- 👨‍💻 I am a Software Engineer, I develop Websites 🖥️ and Mobile Applications📱
-- 🌱 I’m currently trying to learn everything I can 🤣
-- 🧑‍🎓 Student at the University of Huddersfield, Huddersfield, United Kingdom 🎡 
+## 🚀 Projects:
+
+🛠️ ATMAS: Delve into the future of advanced manufacturing with the Automated Test Management and Asset Scheduling System. As a dedicated product engineer, I contributed to this cutting-edge solution that revolutionizes scheduling processes and asset management.
+
+📊 Business Management Suite: Empowering Ramjan Interiors with a custom software suite for quotation generation, bill management, and simplified GST tracking.
+
+📈 Dashboard Screen Builder: Key contributor to Trellissoft's internal Dashboard Screen Builder project, revolutionizing data visualization within the organization.
+
+🎉 Club Cubana & Amanora Beauty Lounge Apps: Spearheaded the development of dynamic booking engines and user-friendly CMS using PHP and ReactJS.
+
+💊 Life Pharma E-commerce: Led the development of an E-commerce pharmaceutical website during my undergraduate course, showcasing proficiency in PHP, MySQL, HTML5, and CSS.
+
+## 💼 Skills:
+
+- 🚀 Software Project Management
+- 🛢️ MySQL
+- 🌐 JavaScript
+- 🔄 Model-View-Controller (MVC)
+- 📄 HTML
 
 ## Languages and Tools:
 
@@ -28,7 +42,7 @@
 <img align="left" title="MySQL" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/null/mysql-logo.png" />
 <img align="left" title="Java" alt="Java" width="40px" src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" />
 <img align="left" title="AngularJS" alt="AngularJS" width="40px" src="https://img.icons8.com/color/48/null/angularjs.png" />
-<br /> <br /><br />
+<br /> <br /><br /> <br />
 
 ## Operating Systems Used:
 
@@ -36,3 +50,12 @@
 <img align="left" title="Mac OS" alt="Mac OS" width="40px" src="https://img.icons8.com/office/40/null/mac-logo--v2.png" />
 <img align="left" title="Linux OS" alt="Linux OS" width="40px" src="https://img.icons8.com/color/48/null/linux--v1.png" />
 <br /> <br />
+
+## 🔗 Connect with Me:
+- 🌐 [Personal Website](https://mrmallik.com)
+- 💼 [LinkedIn](https://linkedin.com/in/mrmallik)
+- ✍️ [Medium](https://mrmallik.medium.com/)
+
+📚 Writing: Check out my [Medium](https://mrmallik.medium.com/) account for short articles about programming and development.
+
+🚀 Philosophy: I believe coding should be fun, and understanding core concepts is more essential than syntax.
